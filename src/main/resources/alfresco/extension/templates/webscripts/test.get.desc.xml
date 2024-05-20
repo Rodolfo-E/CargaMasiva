@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>Test Webscript</shortname>
+    <description>Testing</description>
+    <url>/domain/test/{folderpath}</url>
+    <authentication>user</authentication>
+    <format default="html"></format>
+    <lifecycle>sample</lifecycle>    
+</webscript>

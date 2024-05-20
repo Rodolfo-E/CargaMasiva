@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Registrar Parametros</shortname>
+    <description>Registrar Parametros</description>
+    <url>/regParams</url>
+    <format default="json" />
+    <authentication>guest</authentication>
+    <transaction>required</transaction>
+    <lifecycle>public_api</lifecycle>
+</webscript>

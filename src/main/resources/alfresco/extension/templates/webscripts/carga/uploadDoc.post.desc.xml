@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>File Upload Sample</shortname>
+    <description>Handling of multipart/form-data requests.</description>
+    <url>/uploadDoc/{key}</url>
+    <format default="html" />
+    <authentication>user</authentication>
+</webscript>

@@ -1,0 +1,6 @@
+<webscript>
+    <shortname>File Upload Sample</shortname>
+    <description>Form to upload file.</description>
+    <url>/uploadDoc/{key}</url>
+    <authentication>user</authentication>
+</webscript>

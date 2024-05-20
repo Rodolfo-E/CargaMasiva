@@ -1,0 +1,4 @@
+{
+    "result":"${result}",
+	"downloadUrl":"${downloadUrl}"
+   }

@@ -1,0 +1,13 @@
+<webscript>
+    <shortname>Download Document</shortname>
+    <description>  
+        <![CDATA[
+            Obtiene URL de descarga publica y privada
+        ]]>
+    </description>
+    <url>/downloadDoc?id={id}&amp;wsTicket={wsTicket}&amp;idSistema={idSistema}</url>
+    <format default="json" />
+    <authentication>user</authentication>
+    <transaction allow="readwrite">required</transaction>
+    <lifecycle>public_api</lifecycle>
+</webscript>

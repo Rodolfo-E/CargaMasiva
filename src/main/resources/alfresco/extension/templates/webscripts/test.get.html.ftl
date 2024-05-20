@@ -1,0 +1,2 @@
+Message: '${fromJava}'
+Folder: '${folder}'
